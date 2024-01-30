@@ -1,0 +1,14 @@
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\bin\Debug\net8.0\AtmConsoleApp.exe
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\bin\Debug\net8.0\AtmConsoleApp.deps.json
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\bin\Debug\net8.0\AtmConsoleApp.runtimeconfig.json
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\bin\Debug\net8.0\AtmConsoleApp.dll
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\bin\Debug\net8.0\AtmConsoleApp.pdb
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\obj\Debug\net8.0\AtmConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\obj\Debug\net8.0\AtmConsoleApp.AssemblyInfoInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\obj\Debug\net8.0\AtmConsoleApp.AssemblyInfo.cs
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\obj\Debug\net8.0\AtmConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\obj\Debug\net8.0\AtmConsoleApp.dll
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\obj\Debug\net8.0\refint\AtmConsoleApp.dll
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\obj\Debug\net8.0\AtmConsoleApp.pdb
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\obj\Debug\net8.0\AtmConsoleApp.genruntimeconfig.cache
+C:\Users\HP-PC\OneDrive\Desktop\C# bootcamp\AtmConsoleApp\obj\Debug\net8.0\ref\AtmConsoleApp.dll

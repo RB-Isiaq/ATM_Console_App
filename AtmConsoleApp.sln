@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmConsoleApp", "AtmConsoleApp.csproj", "{0EE2D1FE-FB39-439F-8B96-67B1C1195306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE2D1FE-FB39-439F-8B96-67B1C1195306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE2D1FE-FB39-439F-8B96-67B1C1195306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE2D1FE-FB39-439F-8B96-67B1C1195306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE2D1FE-FB39-439F-8B96-67B1C1195306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {486E98EA-C6F8-4716-9BA9-FCF45DA80405}
+	EndGlobalSection
+EndGlobal
